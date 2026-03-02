@@ -144,8 +144,6 @@ Raw Transaction Data → SQL Aggregation & Ranking → Insight Validation → Po
 
 
 
-https://github.com/Kap1himanshu/Pizzahut-Sales-Dashboard/blob/main/Pizzahut%20Dashboard%20H.jpg
-
 
 
 
